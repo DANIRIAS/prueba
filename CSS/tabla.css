@@ -1,0 +1,17 @@
+body{
+    background-image: url(/img/manchas.jpg);
+    background-repeat:repeat-x;
+    font-size: larger;
+    color:white;
+}
+h1{
+    color: chartreuse;
+    font-family: arial;
+}
+table{
+    border: 2;
+    column-rule-color: blue ;
+    border-right: yellow;
+    color: blueviolet;
+    background-color: cyan;
+}

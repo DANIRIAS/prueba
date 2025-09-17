@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(92, 115, 136);
+}
+h1,h2{
+    color: blanchedalmond;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+}
+h3,h4,h5,h6{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+ul{
+  list-style-type: lower-greek;
+  color:chartreuse  
+}

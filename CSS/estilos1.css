@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+div{
+    height: 25%;
+    background-color: #b3ce3c;
+}
+
+aside{
+    color: #464fd3;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+footer{
+    color-scheme: #b3ce3c;
+    font-size: xx-small;
+}
+nav{
+    margin: 0;
+    border: blueviolet;
+    font-size: xx-large;
+}
